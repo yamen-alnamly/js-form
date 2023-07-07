@@ -1,0 +1,88 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+header
+{
+    font-weight: 900;
+    text-align: center;
+    font-size: 32px;
+    padding: 10px;
+    background-color: yellow;   
+}
+
+form
+{
+    width:  400px;
+    height: fit-content;
+    padding: 60px 25px;
+    margin: 80px auto;
+    border-radius: 10px;
+    background-color: yellow;
+    text-align: center;
+}
+form .error
+{
+    text-align: left;
+    width: fit-content;
+    height: fit-content;
+    margin: 15px auto -10px;
+    padding: 10px 15px;
+    color: white;
+    border-radius: 10px;
+    background-color: red;
+
+}
+form div
+{
+    margin: 23px;
+}
+form div label 
+{
+    margin-right: 190px;
+    font-size: 17px;
+    font-weight: 900;
+}
+form div input
+{
+    margin: 0 auto;
+    width: 240px;
+    height: 30px;
+    border-radius: 10px;
+    font-size: 15px;
+    text-indent: 10px;
+    border: black 1px solid;
+}
+form .btn
+{
+    width: 243px;
+    height: 50px;
+    border-radius: 10px;
+    border:none;
+    color: white;
+    font-size: 15px;
+    background-color: rgb(24, 22, 22);
+    margin-bottom: 10px;
+
+}
+
+#users 
+{ width: 420px;
+    height: fit-content;
+    margin: -60px auto 0px;
+  list-style: none;
+  
+}
+li
+{
+    font-size: 14px;
+    margin-left: -10px;
+    color: black;
+    font-weight: 900; 
+    background-color: yellow;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 20px 0 ;
+}
